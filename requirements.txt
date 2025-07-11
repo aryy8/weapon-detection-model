@@ -1,0 +1,4 @@
+Open-CV
+NumPy
+PlaySound
+Datetime

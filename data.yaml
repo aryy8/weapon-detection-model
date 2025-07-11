@@ -1,0 +1,7 @@
+train: /Users/aryan/Downloads/weapondetection_elumina.v1i.yolov8 2/train
+val: /Users/aryan/Downloads/weapondetection_elumina.v1i.yolov8 2/valid
+test: /Users/aryan/Downloads/weapondetection_elumina.v1i.yolov8 2/test
+
+nc: 3
+names: ['Handgun', 'Knife', 'Short_rifle']
+
